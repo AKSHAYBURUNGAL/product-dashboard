@@ -57,14 +57,15 @@ A full-stack product management dashboard built with MongoDB, Express.js, React.
 ```
 
 ## Frontend Setup
-
+```bash
 cd frontend
 npm install
 npm run dev
-
+```
 
 ## Backend setup
-
+```bash
 cd backend
 npm install
 node server.js
+```
