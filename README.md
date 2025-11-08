@@ -35,11 +35,10 @@ A full-stack product management dashboard built with MongoDB, Express.js, React.
 
 ### Dashboard View
 ![Dashboard](screenshots/dashboard.png)
-*Main dashboard showing all products in a grid layout*
 
 ### Add Product Form
 ![Add Product](screenshots/add-product.png)
-*Form to add new products with image upload*
+
 
 ### Product Dashboard
 ![Main Page](./Main.png)
